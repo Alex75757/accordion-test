@@ -27,8 +27,8 @@ export default {
 <style lang="scss">
 
 .goods-main {
-    width: 1920px;
-    height: 1191px;
+    // width: 1920px;
+    // height: 1191px;
     background: rgba(18, 20, 52, 0.9);
     backdrop-filter: blur(48px);
     font-family: 'Gotham Pro';
